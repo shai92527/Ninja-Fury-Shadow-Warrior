@@ -47,11 +47,11 @@ https://www.youtube.com/watch?v=JSGF7LwMHfs
 
 ---
 
-## 📸 Screenshots
-![Screenshot 1](Screenshots/Screenshot 1.png)
-![Screenshot 2](Screenshots/Screenshot 2.png)
-![Screenshot 3](Screenshots/Screenshot 3.png)
-![Screenshot 4](Screenshots/Screenshot 4.png)
+## 📸 Screenshots]
+![Screenshot1](Screenshots/Screenshot 1.png)
+![Screenshot2](Screenshots/Screenshot 2.png)
+![Screenshot3](Screenshots/Screenshot 3.png)
+![Screenshot4](Screenshots/Screenshot 4.png)
 
 ---
 
